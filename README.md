@@ -134,6 +134,11 @@ of an idea to a production-ready system serving real users.
 <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<br/>
+
+<!-- 🧊 3D CONTRIBUTION CALENDAR — enable the profile-3d.yml workflow to activate -->
+<img src="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
+
 </div>
 
 ---
@@ -142,7 +147,15 @@ of an idea to a production-ready system serving real users.
 
 <div align="center">
 
-## `04 · Currently`
+## `05 · Now Playing`
+
+<!-- 🎵 SPOTIFY — deploy your own instance (see setup notes) then uncomment:
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<img src="https://YOUR-DEPLOYED-APP.vercel.app/api/spotify" alt="Spotify now playing" />
+</a>
+-->
+
+## `06 · Currently`
 
 Building digital products through **[Solsn Technologies](https://solsn.com)**.
 Exploring better ways to design, build, deploy, and maintain software.
