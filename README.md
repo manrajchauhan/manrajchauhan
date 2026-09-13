@@ -117,56 +117,15 @@ of an idea to a production-ready system serving real users.
 
 ## `03 · GitHub`
 
-<img src="https://github-readme-stats.vercel.app/api?username=manrajchauhan&show_icons=true&theme=transparent&title_color=E0DDD5&text_color=9B9790&icon_color=E0DDD5&border_color=2E2C28&bg_color=181817&include_all_commits=true&count_private=true&ring_color=E0DDD5" height="170" alt="GitHub statistics" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manrajchauhan&theme=dark&background=181817&border=2E2C28&ring=E0DDD5&fire=E0DDD5&currStreakLabel=E0DDD5&sideLabels=9B9790&currStreakNum=E0DDD5&dates=9B9790&stroke=2E2C28" height="170" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manrajchauhan&layout=compact&theme=transparent&title_color=E0DDD5&text_color=9B9790&border_color=2E2C28&bg_color=181817&langs_count=8" height="170" alt="Most used languages" />
 
 <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manrajchauhan&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<!-- 🐍 CONTRIBUTION SNAKE — enable the workflow below to activate -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/output/github-contribution-grid-snake.svg" />
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<!-- 🧊 3D CONTRIBUTION CALENDAR — enable the profile-3d.yml workflow to activate -->
-<img src="https://raw.githubusercontent.com/manrajchauhan/manrajchauhan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
 
 </div>
 
 ---
 
-<!-- ═══════════════ QUOTE ═══════════════ -->
-
-<div align="center">
-
-## `05 · Now Playing`
-
-<!-- 🎵 SPOTIFY — deploy your own instance (see setup notes) then uncomment:
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-<img src="https://YOUR-DEPLOYED-APP.vercel.app/api/spotify" alt="Spotify now playing" />
-</a>
--->
-
-## `06 · Currently`
-
-Building digital products through **[Solsn Technologies](https://solsn.com)**.
-Exploring better ways to design, build, deploy, and maintain software.
-
-<br/>
-
-[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ideas%20are%20easy.%20Building%20them%20is%20the%20fun%20part.&author=Manraj%20Chauhan)](https://manrajchauhan.com)
-
-</div>
-
----
 
 <div align="center">
 
